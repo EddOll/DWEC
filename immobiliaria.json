@@ -1,26 +1,12 @@
-[{
-            "edifici1":{
-                "Tipo":"Casa",
-                "Habitacions":3,
-                "km2":120,
-            },
-
-            "edifici2":{
-                "Tipo":"Adosat",
-                "Habitacions":4,
-                "km2":140,
-            },
-        }, {
-            "edifici1":{
-                "Tipo":"Finca",
-                "Habitacions":2,
-                "km2":100,
-            },
-
-            "edifici2":{
-                "Tipo":"Casa",
-                "Habitacions":3,
-                "km2":120,
-            }
-        }
-    ];
+{
+"destacados":[
+    {"Tipo":"Casa", "Habitacions":2, "km2":100},
+    {"Tipo":"Piso", "Habitacions":4, "km2":130},
+    {"Tipo":"Adosado", "Habitacions":3, "km2":120},
+    {"Tipo":"Garaje", "Habitacions":2, "km2":98}        
+]
+"pisos":[
+    {"Tipo":"Piso", "Habitacions":1, "km2":69},
+    {"Tipo":"Piso", "Habitacions":4, "km2":130},
+]
+}
