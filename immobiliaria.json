@@ -3,10 +3,22 @@
     {"tipo":"Casa", "habitacions":2, "km2":100},
     {"tipo":"Piso", "habitacions":4, "km2":130},
     {"tipo":"Adosado", "habitacions":3, "km2":120},
-    {"tipo":"Garaje", "habitacions":2, "km2":98}        
+    {"tipo":"Garaje", "habitacions":1, "km2":30}        
 ],
 "pisos":[
     {"tipo":"Piso", "habitacions":1, "km2":69},
     {"tipo":"Piso", "habitacions":4, "km2":130}
+]
+"adosado":[
+    {"tipo":"Adosado", "habitacions":3, "km2":120},
+    {"tipo":"Adosado", "habitacions":4, "km2":160}
+]
+"casa":[
+    {"tipo":"Casa", "habitacions":2, "km2":100},
+    {"tipo":"Casa", "habitacions":3, "km2":135}
+]
+"garaje":[
+    {"tipo":"Garaje", "habitacions":1, "km2":30},
+    {"tipo":"Garaje", "habitacions":1, "km2":19}
 ]
 }
