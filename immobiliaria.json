@@ -1,12 +1,12 @@
 {
 "destacados":[
-    {"Tipo":"Casa", "Habitacions":2, "km2":100},
-    {"Tipo":"Piso", "Habitacions":4, "km2":130},
-    {"Tipo":"Adosado", "Habitacions":3, "km2":120},
-    {"Tipo":"Garaje", "Habitacions":2, "km2":98}        
+    {"tipo":"Casa", "habitacions":2, "km2":100},
+    {"tipo":"Piso", "habitacions":4, "km2":130},
+    {"tipo":"Adosado", "habitacions":3, "km2":120},
+    {"tipo":"Garaje", "habitacions":2, "km2":98}        
 ],
 "pisos":[
-    {"Tipo":"Piso", "Habitacions":1, "km2":69},
-    {"Tipo":"Piso", "Habitacions":4, "km2":130}
+    {"tipo":"Piso", "habitacions":1, "km2":69},
+    {"tipo":"Piso", "habitacions":4, "km2":130}
 ]
 }
