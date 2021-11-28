@@ -1,150 +1,182 @@
-        const edificis = {
+{
 
-                    "destacados": [{
-                            "imagenes": "img/casa/casa0.jpg",
+            "destacado": [{
+                "imagenes": "img/dest/dest0.jpg",
 
-                            "direccion": "Casa en Juan Martorell, 10",
+                "direccion": "Local Calle Juan Ramón Jiménez",
 
-                            "referencia": "V5110",
+                "tipo": "Local",
 
-                            "m2":"300m2",
+                "m2":"120m2",
 
-                            "precio": "500.000"
+                "precio": "150.000",
 
-                        },
+                "descripcion": "Una estupenda casa para comenzar a vivir ahora mismo"
+            },
 
-                        {
-                            "imagenes": "img/casa/casa1.jpg",
+            {
+                "imagenes": "img/dest/dest1.jpg",
 
-                            "direccion": "Casa en valencia, el orriols",
+                "direccion": "Casa en valencia, el orriols",
 
-                            "referencia": "V5112",
+                "tipo": "Casa",
 
-                            "m2":"456m2",
+                "m2":"456m2",
 
-                            "precio": "249.000"
+                "precio": "249.000",
 
-                        }
+                "descripcion": "Una estupenda casa para comenzar a vivir ahora mismo"
 
-                    ],
-                
-        
-                    "casas": [{
-                            "imagenes": "img/casa/casa0.jpg",
+            },
 
-                            "direccion": "Casa en Juan Martorell, 10",
-
-                            "referencia": "V5110",
-
-                            "m2":"300m2",
-
-                            "precio": "500.000"
-
-                        },
-
-                        {
-                            "imagenes": "img/casa/casa1.jpg",
-
-                            "direccion": "Casa en valencia, el orriols",
-
-                            "referencia": "V5112",
-
-                            "m2":"456m2",
-
-                            "precio": "249.000"
-
-                        }
-
-                    ],
-        
-                    "pisos": [{
-                            "imagenes": "img/piso/piso0/",
-                            
-                            "direccion": "Piso Calle Asturias",
-        
-                            "referencia": "P543",
-        
-                            "m2":"50m2",
-        
-                            "precio": "158.000"
-        
-                        },
-        
-                        {
-                            "imagenes": "img/piso/piso1/",
-                                
-                            "direccion": "Piso Calle Perfecto, En corts",
-        
-                            "referencia": "P544",
-        
-                            "m2":"45m2",
-        
-                            "precio": "108.500"
-        
-                        }
-        
-                    ],
+            {
     
-        
-                    "locales": [{
-                            "imagenes": "img/local/local0/",
-                            
-                            "direccion": "Local Calle Juan Ramón Jiménez",
-        
-                            "referencia": "L543",
-        
-                            "m2":"120m2",
-        
-                            "precio": "150.000"
-        
-                        },
-        
-                        {
-                            "imagenes": "img/local/local1/",
-                                
-                            "direccion": "Local Calle Escultor Jo´se Capuz",
-        
-                            "referencia": "L544",
-        
-                            "m2":"100m2",
-        
-                            "precio": "52.000"
-        
-                        }
-        
-                    ],
-        
-        
-                    "garajes": [{
-                
-                            "imagenes": "img/garaje/garaje0/",
-        
-                            "direccion": "Garaje Avenida Cortes Valencianas 35",
-        
-                            "referencia": "P543",
-        
-                            "m2":"20m2",
+                "imagenes": "img/dest/dest2.jpg",
 
-                            "precio": "16.000"
-        
-                        },
-        
-                        {
-                
-                            "imagenes": "img/garaje/garaje1/",
-        
-                            "direccion": "Garaje Avenida músico maestro rodrigo 19",
-        
-                            "referencia": "P544",
-        
-                            "m2":"15m2",
+                "direccion": "Garaje Avenida Cortes Valencianas 35",
 
-                            "precio": "19.000"
+                "tipo": "Garaje",
+
+                "m2":"20m2",
+
+                "precio": "16.000",
+
+                "descripcion": "Una estupenda casa para comenzar a vivir ahora mismo"
+
+            }
+        ],
         
-                        }
-        
-                    ]
-        
-              
-        
-        }    
+    
+
+        "casa": [{
+                "imagenes": "img/casa/casa0.jpg",
+
+                "direccion": "Casa en Juan Martorell, 10",
+
+                "tipo": "Casa",
+
+                "m2":"300m2",
+
+                "precio": "500.000",
+
+                "descripcion": "Una estupenda casa para comenzar a vivir ahora mismo"
+
+            },
+
+            {
+                "imagenes": "img/casa/casa1.jpg",
+
+                "direccion": "Casa en valencia, el orriols",
+
+                "tipo": "Casa",
+
+                "m2":"456m2",
+
+                "precio": "249.000",
+
+                "descripcion": "Una estupenda casa para comenzar a vivir ahora mismo"
+
+            }
+
+        ],
+
+        "piso": [{
+                "imagenes": "img/piso/piso0.jpg",
+                
+                "direccion": "Piso Calle Asturias",
+
+                "tipo": "Piso",
+
+                "m2":"50m2",
+
+                "precio": "158.000",
+
+                "descripcion": "Una estupenda casa para comenzar a vivir ahora mismo"
+
+            },
+
+            {
+                "imagenes": "img/piso/piso1.jpg",
+                    
+                "direccion": "Piso Calle Perfecto, En corts",
+
+                "tipo": "Piso",
+
+                "m2":"45m2",
+
+                "precio": "108.500",
+
+                "descripcion": "Una estupenda casa para comenzar a vivir ahora mismo"
+
+            }
+
+        ],
+
+
+        "local": [{
+                "imagenes": "img/local/local0.jpg",
+                
+                "direccion": "Local Calle Juan Ramón Jiménez",
+
+                "tipo": "Local",
+
+                "m2":"120m2",
+
+                "precio": "150.000",
+
+                "descripcion": "Una estupenda casa para comenzar a vivir ahora mismo"
+
+            },
+
+            {
+                "imagenes": "img/local/local1.jpg",
+                    
+                "direccion": "Local Calle Escultor Jo´se Capuz",
+
+                "tipo": "Local",
+
+                "m2":"100m2",
+
+                "precio": "52.000",
+
+                "descripcion": "Una estupenda casa para comenzar a vivir ahora mismo"
+
+            }
+
+        ],
+
+
+        "garaje": [{
+    
+                "imagenes": "img/garaje/garaje0.jpg",
+
+                "direccion": "Garaje Avenida Cortes Valencianas 35",
+
+                "tipo": "Garaje",
+
+                "m2":"20m2",
+
+                "precio": "16.000",
+
+                "descripcion": "Una estupenda casa para comenzar a vivir ahora mismo"
+
+            },
+
+            {
+    
+                "imagenes": "img/garaje/garaje1.jpg",
+
+                "direccion": "Garaje Avenida músico maestro rodrigo 19",
+
+                "tipo": "Garaje",
+
+                "m2":"15m2",
+
+                "precio": "19.000",
+
+                "descripcion": "Una estupenda casa para comenzar a vivir ahora mismo"
+
+            }
+
+        ]
+    }   
