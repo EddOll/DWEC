@@ -92,7 +92,7 @@
             "img/local/local0-1.jpg",
             "img/local/local0-2.jpg"
          ],
-         "direccion":"Local Local Calle Doctor Fleming 4",
+         "direccion":"Local Calle Doctor Fleming 4",
          "tipo":"Local",
          "m2":"132m2",
          "precio":"132.100",
@@ -133,7 +133,7 @@
             "img/garaje/garaje1-1.jpg",
             "img/garaje/garaje1-2.jpg"
          ],
-         "direccion":"Garaje alle marques de dos aguas 19",
+         "direccion":"Garaje calle marques de dos aguas 19",
          "tipo":"Garaje",
          "m2":"17m2",
          "precio":"12.000",
