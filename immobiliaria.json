@@ -1,12 +1,7 @@
 {
 
             "destacado": [{
-                "imagenes": {
-                        "img/dest/dest0.jpg",
-                        "img/dest/dest0-0.jpg",
-                        "img/dest/dest0-1.jpg",
-                        "img/dest/dest0-2.jpg"
-                },
+                "imagenes": "img/dest/dest0.jpg",
 
                 "direccion": "Local Calle Juan Ramón Jiménez",
 
