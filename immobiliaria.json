@@ -49,12 +49,7 @@
     
 
         "casa": [{
-                "imagenes": {
-                            "img/casa/casa0.jpg",
-                            "img/casa/casa0-0.jpg",
-                            "img/casa/casa0-1.jpg",
-                            "img/casa/casa0-2.jpg",
-                },
+                "imagenes": "img/casa/casa0.jpg",
 
                 "direccion": "Casa en Juan Martorell, 10",
 
